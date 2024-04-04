@@ -4,7 +4,7 @@ function Home() {
     return (<>
 
         <Link href={'/about'}>About</Link>
-        <h1>home
+        <h1>yyyyyyyyyyyyyyyyyyyy
 
 
         </h1></>);
